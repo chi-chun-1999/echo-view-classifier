@@ -1,3 +1,8 @@
 Filename,Prediction,Confidence
-test\test1.jpg,plax,0.996
-test\test2.jpg,psax-ap,0.951
+test/kmu_ori_a2c_A41HJ402_frame15.jpg,a2c,0.665
+test/kmu_ori_a2c_A41HJ402_frame20.jpg,a2c,0.503
+test/kmu_ori_a2c_A41HJ402_frame9.jpg,a2c,0.713
+test/kmu_ori_a3c_A41HJ9G2_frame9.jpg,a3c,0.987
+test/kmu_ori_a4c_A41HII82_frame9.jpg,a4c,0.993
+test/test1.jpg,plax,0.996
+test/test2.jpg,psax-ap,0.951
